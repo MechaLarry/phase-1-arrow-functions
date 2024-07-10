@@ -13,9 +13,5 @@ const divide = function(a = 2000, b = 100) {
     return a + b;
   };
   
-  module.exports = {
-    divide,
-    square,
-    add
-  };
+
   
